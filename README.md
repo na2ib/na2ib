@@ -11,18 +11,18 @@ efficient code.
 
 ---
 
-<h3 align="right">📊 My GitHub Stats</h3>
-<div align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=na2ib&show_icons=true&theme=transparent" alt="GitHub Stats Card" />
+<h3 align="left">📊 My GitHub Stats</h3>
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=na2ib&show_icons=true&theme=transparent" alt="GitHub Stats Card" />
 </div>
 
-<h3 align="left">🛠️ Technologies & Languages</h3>
-<p align="left">
+<h3 align="right">🛠️ Technologies & Languages</h3>
+<p align="right">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,figma,html,css" alt="JavaScript, Python, C++, Figma, HTML, CSS mongodb&theme=dark&perline=7" />
 </p>
 
-<h3 align="left">📧 Connect With Me</h3>
-<p align="left">
+<h3 align="right">📧 Connect With Me</h3>
+<p align="right">
 <a href="https://t.me/na2ib">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Telegram Icon" />
 </a>
