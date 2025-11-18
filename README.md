@@ -9,7 +9,7 @@ TOP RIGHT ALIGNED IMAGES (Discord/Spotify & Joke Card)
 INTRO & ABOUT ME
 -->
 
-<h1 align="left">Hi 👋! My name is Nazib and I'm a Software Developer</h1>
+<h1 align="left">Hi 👋! I'm Nazib</h1>
 
 <p align="left">
 Hello there! I'm a passionate developer who loves diving into low-level programming
