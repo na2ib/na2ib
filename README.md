@@ -14,7 +14,7 @@ INTRO & ABOUT ME
 <p align="left">
 Hello there! I'm a passionate developer who loves diving into low-level programming
 and crafting dynamic web experiences. I enjoy turning complex ideas into functional,
-efficient code and I'm always looking for the next challenge.
+efficient code.
 Check out my skills below!
 </p>
 
