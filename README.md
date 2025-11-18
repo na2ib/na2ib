@@ -3,3 +3,12 @@
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
