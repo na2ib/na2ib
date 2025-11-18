@@ -23,13 +23,13 @@ efficient code.
 
 <h3 align="left">📧 Connect With Me</h3>
 <p align="left">
-<a href="https://m.me/na2ibb">
+<a href="https://t.me/na2ib">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Telegram Icon" />
 </a>
 <a href="https://discord.com/users/294708393661169664">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord Icon" />
 </a>
-<a href="https://t.me/na2ib">
+<a href="https://m.me/na2ibb">
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" height="30" alt="Telegram Icon" />
 </a>
 </p>
