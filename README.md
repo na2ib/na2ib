@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0eb3e1,100:f538a0&height=150&text=Nazib%20Hasan&fontSize=42&fontColor=ffffff&fontAlignY=52" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0eb3e1,100:f538a0&height=180&section=header&text=Nazib%20Hasan&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Header" width="100%" />
   
   <br><br>
 
@@ -20,9 +20,9 @@
         </p>
         <br>
         <p align="center">
-          <a href="mailto:nazib.hasan.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-          <a href="https://na2ib.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0eb3e1?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
-          <a href="https://linkedin.com/in/nazib-hasan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+          <a href="https://m.me/na2ibb" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"></a>
+          <a href="https://t.me/na2ib" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+          <a href="https://discord.com/users/294708393661169664" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
         </p>
       </td>
       <td width="40%" align="center" valign="top">
@@ -98,5 +98,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0eb3e1,100:f538a0&height=80&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0eb3e1,100:f538a0&height=100&section=footer" alt="Footer" width="100%" />
 </div>
