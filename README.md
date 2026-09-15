@@ -26,7 +26,7 @@
         </p>
       </td>
       <td width="40%" align="center" valign="top">
-        <img src="https://lanyard.cnrad.dev/api/294708393661169664?theme=dark&bg=0d1117" alt="Discord Status" width="100%" />
+        <img src="https://lanyard.cnrad.dev/api/294708393661169664?theme=dark&showDisplayName=true&bg=0d1117" alt="Discord Status" width="100%" />
       </td>
     </tr>
   </table>
